@@ -14,6 +14,5 @@ Following steps were followed to do this project:
 
 
 ## Final Classification
-
-![](https://imgur.com/a/nRAtw00.png)
+![image](https://imgur.com/pjj0Ddw.png)
 
